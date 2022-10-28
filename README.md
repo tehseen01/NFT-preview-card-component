@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/tehseen01/NFT-preview-card-component.git)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://shan-nft-card-component.netlify.app/)
 
 ### Built with
 
